@@ -1,0 +1,94 @@
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+  } 
+
+ body{
+    background-color: hsl(217, 54%, 11%) ;
+ }
+
+ .card{
+    background-color:hsl(216, 50%, 16%);
+    width: 90%;
+    max-width: 350px;
+    margin: 100px auto;
+    border-radius: 10px;
+ }
+
+ .card img{
+    border-radius: 10px;
+ }
+
+ .content{
+    padding: 20px;
+ }
+
+ .content h2{
+    color:hsl(0, 0%, 100%);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 30px 0;
+ }
+
+ .content p{
+    color:hsl(215, 51%, 70%) ;
+    font-size: 18px;
+    font-weight: 300;
+
+ }
+ .ethereum{
+    display: flex;
+    padding: 20px;
+ }
+ .ethereum img{
+    width: 25px;
+    height: 25px;
+ }
+ .ethereum p{
+    padding:5px ;
+    color:hsl(178, 100%, 50%) ;
+    font-size: 18px;
+    font-weight: 400;
+ }
+
+ .clock{
+    display: flex;
+    padding: 20px;
+ }
+
+ .clock p {
+    padding: 5px;
+    color:hsl(215, 51%, 70%) ;
+    font-size: 18px;
+    font-weight: 300;
+ }
+ .clock img{
+    height: 25px;
+ }
+
+ .value{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+    width: 90%;
+    margin-left: 15px;
+    
+    
+ }
+
+ .credit{
+   display: flex; 
+   padding: 20px;
+ }
+
+ .credit p{
+    padding-left: 10px;
+    color:hsl(215, 51%, 70%) ;
+}
+ 
+ .credit img{
+    border: 1px solid hsl(0, 0%, 100%);
+ }
+ 
