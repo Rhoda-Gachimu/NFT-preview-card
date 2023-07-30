@@ -20,7 +20,7 @@ The NFT preview card component appears as shown below
 
 ### Links
 
-- Solution URL: [QR-code](https://github.com/Rhoda-Gachimu/NFT-preview-card)
+- Solution URL: [NFT-Preview-card](https://github.com/Rhoda-Gachimu/NFT-preview-card)
 - Live Site URL:(https://rhoda-gachimu.github.io/NFT-preview-card/)
 
 
